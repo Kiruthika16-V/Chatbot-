@@ -11,3 +11,5 @@ Supports text and voice-based interaction.
 
 The project focuses on food safety, user accessibility, and practical AI application, making milk quality analysis simple and understandable for everyone.
 
+🔗Project Link 
+https://huggingface.co/spaces/Kiruthika-16/MilkAdulterationDetection-Chatbot
